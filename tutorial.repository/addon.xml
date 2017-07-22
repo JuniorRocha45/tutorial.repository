@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="tutorial.repository" name="tutorial repository" version="0.0.2" provider-name="JuniorRocha45">
+	<extension point="xbmc.addon.repository" name="tutorial Add-on Repository">
+		<info compressed="false">http://raw.github.com/JuniorRocha45/tutorial.repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/JuniorRocha45/tutorial.repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/JuniorRocha45/tutorial.repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>tutorial Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
